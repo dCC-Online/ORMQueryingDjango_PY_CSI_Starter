@@ -9,6 +9,3 @@ mysql-connector-python = "==8.0.26"
 django-debug-toolbar = "*"
 
 [dev-packages]
-
-[requires]
-python_version = "3.11"
